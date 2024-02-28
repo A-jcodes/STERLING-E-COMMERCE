@@ -1,6 +1,6 @@
 ![WhatsApp Image 2023-11-05 at 14 51 15_fce4b773](https://github.com/A-jcodes/STERLING-E-COMMERCE/assets/96001998/e209ca85-d3eb-43fb-b520-e6af10410d18)
 
-# STERLING-E-COMMERCE
+# Excel Dashboard for STERLING-E-COMMERCE
 ## Overview
 Sterling E-Commerce is a one-stop online shopping destination for a wide range of high-quality products. The company aims to provide their customers with the best shopping experience possible, with a focus on quality, affordability, and convenience.
 
